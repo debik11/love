@@ -1,0 +1,19 @@
+.div-block{
+	clear: both;
+	width: 100vw;
+	height: 100vh;
+	background-color:;
+}
+body{
+	margin: 0;
+}
+.gif{
+	background-image: url("gif.gif");
+	background-position: center;
+	background-size: cover;
+}
+.txt{
+	font-size: 40px;
+	color: black;
+	text-align: center;
+}
